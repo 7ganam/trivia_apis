@@ -48,8 +48,6 @@ To run the server, execute:
 export FLASK_APP=flaskr
 export FLASK_ENV=development
 export DB_HOST=127.0.0.1:5432
-export DB_USER=ganam
-export DB_PASSWORD=1
 export DB_USER=<your_database_user_name>
 export DB_PASSWORD=<your_database_password>
 
